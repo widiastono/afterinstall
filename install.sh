@@ -5,4 +5,4 @@ USER=widiastono
 sh vim.install.sh
 
 ### USER vim
-sudo - widiastono vim.install.sh
+sudo -u widiastono vim.install.sh
